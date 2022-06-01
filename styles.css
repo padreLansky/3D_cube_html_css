@@ -1,3 +1,9 @@
+body {
+    background-image: linear-gradient(DeepSkyBlue, white 70%, ForestGreen 70%, Khaki);
+    /* background-size: cover; */
+    height: 100vh;
+}
+
 .wraper {
     margin: 0;
     position: absolute;
